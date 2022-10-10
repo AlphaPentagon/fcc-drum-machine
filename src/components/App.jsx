@@ -40,7 +40,7 @@ const DrumDisplay = styled.div`
   padding-block: 0.8rem;
   border-radius: 0.2rem;
   align-self: start;
-  margin-left: 1.5rem;
+  margin-left: 3rem;
   z-index: 1;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 10px;
   height: 1rem;
